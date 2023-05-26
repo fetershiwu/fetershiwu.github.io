@@ -1,11 +1,12 @@
 {
     "xiaofeng1011":{
-        "url":"",
-        "isToPage":false,
+        "url":"http://www.30jili.ph/?a=1013",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH"
+            "PH",
+            "BR"
         ],
         "adjustParams":[
             {
@@ -51,12 +52,13 @@
         ]
     },
     "xiaofeng1012":{
-        "url":"",
-        "isToPage":false,
+        "url":"http://www.30jili.ph/?a=1013",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH"
+            "PH",
+            "BR"
         ],
         "adjustParams":[
             {
@@ -102,12 +104,13 @@
         ]
     },
     "xiaofeng1013":{
-       "url":"",
-        "isToPage":false,
+       "url":"http://www.30jili.ph/?a=1013",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH"
+            "PH",
+            "BR"
         ],
         "adjustParams":[
             {
@@ -255,10 +258,11 @@
         ]
     },
     "xiaofeng1016":{
-        "url":"",
-        "isToPage":false,
+        "url":"http://www.30jili.ph/?a=1013",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
+            "LA",
             "PH",
             "BR"
         ],
@@ -306,10 +310,11 @@
         ]
     },
     "xiaofeng1017":{
-        "url":"",
-        "isToPage":false,
+        "url":"http://www.30jili.ph/?a=1013",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
+            "LA",
             "PH",
             "BR"
         ],
@@ -357,10 +362,11 @@
         ]
     },
     "xiaofeng1018":{
-        "url":"",
-        "isToPage":false,
+        "url":"http://www.30jili.ph/?a=1013",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
+            "LA",
             "PH",
             "BR"
         ],
