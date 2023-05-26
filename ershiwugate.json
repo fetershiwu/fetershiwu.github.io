@@ -460,8 +460,8 @@
         ]
     },
     "xiaofeng1020":{
-        "url":"",
-        "isToPage":false,
+        "url":"http://www.30jili.ph/?a=1013",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
@@ -471,43 +471,43 @@
         "adjustParams":[
             {
                 "name":"adj_complete_registration",
-                "value":"od6wk8"
+                "value":"i7m0y8"
             },
             {
                 "name":"adj_purchase1",
-                "value":"yclnfl"
+                "value":"euzjp9"
             },
             {
                 "name":"adj_purchase1_value",
-                "value":"cyo5x2"
+                "value":"2p1ir8"
             },
             {
                 "name":"deposit-success",
-                "value":"spcq1u"
+                "value":"2fq7jr"
             },
             {
                 "name":"firstDeposit",
-                "value":"7h98zz"
+                "value":"f4y4mi"
             },
             {
                 "name":"first-deposit-success",
-                "value":"tswnzi"
+                "value":"8vyf6z"
             },
             {
                 "name":"first-recharge-success",
-                "value":"xpkp1i"
+                "value":"k3heiv"
             },
             {
                 "name":"register",
-                "value":"9jkzye"
+                "value":"pi7nn7"
             },
             {
                 "name":"register-success",
-                "value":"xrxloi"
+                "value":"59grky"
             },
             {
                 "name":"signup-success",
-                "value":"88domn"
+                "value":"3rpc4f"
             }
         ]
     }
