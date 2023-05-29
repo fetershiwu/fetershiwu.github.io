@@ -207,12 +207,14 @@
         ]
     },
     "xiaofeng1015":{
-        "url":"",
-        "isToPage":false,
+        "url":"https://p9.com?type=referral&proxyCode=ct006",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH"
+            "PH",
+            "BR",
+            "HK"
         ],
         "adjustParams":[
             {
@@ -228,8 +230,8 @@
                 "value":"ccpx7d"
             },
             {
-                "name":"deposit-success",
-                "value":"17zthy"
+                "name":"a_recharge",
+                "value":"w69dkx"
             },
             {
                 "name":"firstDeposit",
@@ -240,16 +242,16 @@
                 "value":"pb9fux"
             },
             {
-                "name":"first-recharge-success",
-                "value":"x0jjj6"
+                "name":"a_first_recharge",
+                "value":"91g0ci"
             },
             {
                 "name":"register",
                 "value":"vu9582"
             },
             {
-                "name":"register-success",
-                "value":"ms6tsr"
+                "name":"a_register",
+                "value":"gvz3y8"
             },
             {
                 "name":"signup-success",
