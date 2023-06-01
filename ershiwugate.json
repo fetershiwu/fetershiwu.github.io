@@ -104,14 +104,7 @@
         ]
     },
     "xiaofeng1013":{
-       "url":"",
-        "isToPage":false,
         "isAlert":false,
-        "countryCodes":[
-            "LA",
-            "PH",
-            "BR"
-        ],
         "adjustParams":[
             {
                 "name":"adj_complete_registration",
