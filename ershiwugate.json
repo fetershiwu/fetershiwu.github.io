@@ -295,18 +295,7 @@
         ]
     },
     "xiaofeng1016":{
-        "url":"https://webyundun1.ojwinyundun1.com/home/game?cid=314362&languageCode=pt&type=2&currency=BRL",
-        "isToPage":true,
         "isAlert":false,
-        "countryCodes":[
-            "LA",
-            "HK",
-            "PH",
-            "BR"
-        ],
-        "appsflyerKey":"6sLoYXtALUKmBSr8L68ssV",
-        "fbAppId":"639295814675764",
-        "fbClientId":"530cc2c4fe729f2915e8bab7fdc26af1",
         "adjustParams":[
             {
                 "name":"adj_complete_registration",
@@ -321,8 +310,16 @@
                 "value":"kqr22v"
             },
             {
+                "name":"dailyReward",
+                "value":"is2vl2"
+            },
+            {
                 "name":"deposit-success",
                 "value":"dks8j7"
+            },
+            {
+                "name":"enterGame",
+                "value":"f93z1t"
             },
             {
                 "name":"firstDeposit",
@@ -333,12 +330,36 @@
                 "value":"oehz46"
             },
             {
+                "name":"firstrecharge",
+                "value":"7qzwy1"
+            },
+            {
                 "name":"first-recharge-success",
                 "value":"4lqzbf"
             },
             {
+                "name":"login",
+                "value":"vxp021"
+            },
+            {
+                "name":"logout",
+                "value":"18wrw8"
+            },
+            {
+                "name":"recharge",
+                "value":"6lw4wa"
+            },
+            {
+                "name":"rechargeClick",
+                "value":"1qrn8y"
+            },
+            {
                 "name":"register",
                 "value":"c4l7uc"
+            },
+            {
+                "name":"registerClick",
+                "value":"a64hrj"
             },
             {
                 "name":"register-success",
@@ -347,6 +368,18 @@
             {
                 "name":"signup-success",
                 "value":"ux4unc"
+            },
+            {
+                "name":"vipReward",
+                "value":"z3ur1y"
+            },
+            {
+                "name":"withdrawClick",
+                "value":"iocv8h"
+            },
+            {
+                "name":"withdrawOrderSuccess",
+                "value":"oxrnaf"
             }
         ]
     },
